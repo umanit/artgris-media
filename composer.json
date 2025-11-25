@@ -10,14 +10,11 @@
     "doctrine",
     "bundle"
   ],
-  "homepage": "https://github.com/SoleneGK/artgris-media",
+  "homepage": "https://github.com/umanit/artgris-media",
   "authors": [
     {
-      "name": "Solène Garda-Krebs",
-      "email": "sgardakrebs@umanit.fr"
-    },
-    {
-      "name": "SoleneGK"
+      "name": "Umanit",
+      "email": "contact@umanit.fr"
     }
   ],
   "require": {
